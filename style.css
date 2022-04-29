@@ -73,14 +73,20 @@
 
 }
 .fa-instagram{
+    text-decoration: none;
+    color: #fff;
     background:linear-gradient(to right,#ff3399,#ff6633);
   
 }
 .fa-github{
-/* background:linear-gradient(to right,#ff3399,#ff6633); */
+
+    text-decoration: none;
+    color: #fff;
 background:linear-gradient(to right,#07c9fa,#00ca11);
 }
 .fa-twitter{
+    color: #fff;
+    text-decoration: none;
     background:linear-gradient(to right,#f74f01,#edca03);
 }
 .social-media h2{
